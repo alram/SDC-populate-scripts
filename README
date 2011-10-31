@@ -1,0 +1,9 @@
+SmartDataCenter scripts
+
+These are some scripts used to create some load on SDC 6.5.
+You should first edit them then, you may want to execute them in the following order:
+ 1) createUsers.sh
+ 2) createSMs.sh
+ 3) deleteSMs.sh
+
+On MacOS X, the propernames file can also be found in /usr/share/dict/propernames
